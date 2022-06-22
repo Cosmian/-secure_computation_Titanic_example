@@ -1,1 +1,1 @@
-# -secure_computation_Titanic_example
+# Secure Computation: Titanic Data Analysis
