@@ -13,7 +13,8 @@ pip install cosmian_secure_computation_client
 ```
 
 ### Step 3
-Register for free on [cosmian.com](https://console.cosmian.com/) to get a token at https://console.cosmian.com/secret-token and put it in the `config.ini` file.
+Register for free on [cosmian.com](https://console.cosmian.com/) and get a token at https://console.cosmian.com/secret-token.
+Put this token in the `config.ini` file.
 
 
 ### Step 4
