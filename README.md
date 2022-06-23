@@ -17,4 +17,4 @@ Register for free on [cosmian.com](https://console.cosmian.com/) to get a token 
 
 
 ### Step 4
-Run the notebook and follow your computation on the Cosmian console[console.cosmian.com/](https://console.cosmian.com).
+Run the notebook and follow your computation on the [Cosmian console](https://console.cosmian.com).
