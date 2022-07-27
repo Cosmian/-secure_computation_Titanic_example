@@ -18,4 +18,4 @@ Put this token in the `config.ini` file.
 
 
 ### Step 4
-Run the notebook and follow your computation on the [Cosmian console](https://console.cosmian.com).
+Run the Jupyter Notebook and follow your computation on the [Cosmian console](https://console.cosmian.com).
